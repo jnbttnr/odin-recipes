@@ -1,5 +1,5 @@
 # Odin Recipes
-##An _Odin Project_ HTML Exercise
+##  An _Odin Project_ HTML Exercise
 
 The purpose of this assignment is to practice using HTML and git commands to build a simple recipe website. <br/>
 
