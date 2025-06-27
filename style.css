@@ -1,0 +1,51 @@
+body {
+    background-color: hsl(151, 71%, 90%);
+
+}
+
+p {
+    display: inline-block;
+    text-align: center;
+    padding: 8px;
+    margin: 16px;
+}
+
+.category{
+    display: inline-block;
+    margin: 20px;
+}
+
+.title {
+    margin: 20px;
+}
+
+.subhead {
+    background-color: hsl(150, 75%, 94%);
+    margin: 20px;
+}
+
+.typecard {
+    text-align: center;
+    background-color: hsl(150, 75%, 94%);
+    padding: 12px;
+    margin: 20px;
+}
+
+.subhead,
+.typecard {
+    border-style: outset;
+    border-color: azure;
+}
+
+.ingredient-list,
+.dir-list,
+.notes {
+    background-color: hsl(150, 75%, 94%);
+    padding: 12px;
+    margin: 20px;
+}
+
+.notes {
+    margin-top: -10px;
+    text-align: left;
+}
